@@ -1,3 +1,3 @@
-git clone "https://github.com/BilliBoleMeow/linkme" tgfs
+git clone "https://github.com/BilliBoleMeow/linker4donators" tgfs
 cd tgfs
 python -m WebStreamer
