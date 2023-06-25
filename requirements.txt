@@ -1,4 +1,5 @@
-aiohttp
+aiohttp<=3.8.1
 pyrogram
-python-dotenv
-tgcrypto
+python-dotenv<=0.21.0
+tgcrypto<=1.2.3
+pycryptodome==3.18.0
