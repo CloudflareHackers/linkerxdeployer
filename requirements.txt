@@ -1,6 +1,6 @@
-aiohttp
-git+https://github.com/KurimuzonAkuma/pyrogram.git
-python-dotenv
+aiohttp<=3.8.1
+pyrogram
+python-dotenv<=0.21.0
 tgcrypto<=1.2.3
-pycryptodome
+pycryptodome==3.18.0
 asyncio
