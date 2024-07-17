@@ -52,7 +52,7 @@
     },
     "buildpacks": [
       { "url": "heroku/python" },
-      { "url": "heroku-community/apt" }
+      { "url": "https://github.com/heroku/heroku-buildpack-apt" }
     ],
     "formation": {
       "web": {
