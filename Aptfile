@@ -1,1 +1,4 @@
+ca-certificates
+curl
 git
+libcurl4-gnutls-dev
