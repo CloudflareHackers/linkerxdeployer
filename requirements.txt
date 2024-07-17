@@ -5,4 +5,3 @@ tgcrypto<=1.2.3
 pycryptodome==3.18.0
 asyncio
 requests
-git
