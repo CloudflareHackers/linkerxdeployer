@@ -60,6 +60,6 @@
         "size": "free"
       }
     },
-    "stack": "heroku-24"
+    "stack": "heroku-22"
   }
   
