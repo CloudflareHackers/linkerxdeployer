@@ -1,6 +1,6 @@
 ca-certificates
 curl
-git
+git=1:2.34.1-1ubuntu1.11
 libcurl4-gnutls-dev
 libcurl4-openssl-dev
 libcurl4-doc
