@@ -1,6 +1,6 @@
 ca-certificates
 curl
-git=2.45.2
+git
 libcurl4-gnutls-dev
 libcurl4-openssl-dev
 libcurl4-doc
