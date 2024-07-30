@@ -1,5 +1,5 @@
 aiohttp<=3.8.1
-pyrotgfork==2.1.32.14
+pyrotgfork==2.1.32.15
 python-dotenv<=0.21.0
 tgcrypto<=1.2.3
 pycryptodome==3.19.1
